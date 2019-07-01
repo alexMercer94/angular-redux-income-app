@@ -1,0 +1,21 @@
+{
+  "REGISTERPAGE": {
+    "REGISTER": "Registro",
+    "EMAIL": "Correo",
+    "PASSWORD": "Contraseña",
+    "BTNCREATEACCOUNT": "Crear cuenta",
+    "DOYOUHAVEACCOUNTALREADY": "ya tienes una cuenta?",
+    "LOGINLINK": "Iniciar Sesión",
+    "NAME": "Nombre"
+  },
+  "LOGINPAGE": {
+    "LOGIN": "Ingresar",
+    "USER": "Usuario",
+    "EMAIL": "Correo",
+    "PASSWORD": "Contraseña",
+    "STRINGS": "*********",
+    "BTNLOGIN": "Entrar",
+    "NOTREGISTEREDYET": "No estas registrado?",
+    "CREATEACCOUNT": "Crear una cuenta"
+  }
+}
