@@ -17,5 +17,8 @@
     "BTNLOGIN": "Entrar",
     "NOTREGISTEREDYET": "No estas registrado?",
     "CREATEACCOUNT": "Crear una cuenta"
+  },
+  "SIDEBAR": {
+    "LOGOUT": "Cerrar sesión"
   }
 }
